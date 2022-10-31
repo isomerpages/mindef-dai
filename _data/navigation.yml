@@ -4,3 +4,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: AIs
+    collection: ais
+  - title: Menu Title
+    url: /permalink
