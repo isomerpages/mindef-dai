@@ -1,0 +1,4 @@
+collections:
+  ais:
+    output: true
+    order: []
