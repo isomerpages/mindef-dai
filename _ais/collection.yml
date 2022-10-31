@@ -1,4 +1,5 @@
 collections:
   ais:
     output: true
-    order: []
+    order:
+      - PERSCOM 11th Anniversary.md
