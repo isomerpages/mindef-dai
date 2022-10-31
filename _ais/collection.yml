@@ -2,4 +2,5 @@ collections:
   ais:
     output: true
     order:
+      - P11/.keep
       - PERSCOM 11.md
