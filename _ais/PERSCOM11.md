@@ -58,14 +58,14 @@ description: ""
 ### Attendance
 
 <div style="font-size: 120%;padding-left: 20px;">
-<u> **Attendance for the event is compulsory** </u> except those on essential duties and approved absence by the respective Entity Heads
+<u> <strong >Attendance for the event is compulsory </strong> </u> except those on essential duties and approved absence by the respective Entity Heads
 </div>
 	
 All PERSCOM personnel are to report to their respective POC for attendance-taking prior to and after the event:
 
 * HQ PERSCOM - Ms Jesmine Yeo
 * HRSSC - Ms Gracia Teow
-* HRI Ms Tan Fu Shan
+* HRI - Ms Tan Fu Shan
 * SAF Pers Hubs - Ms Joyce Chin
 
 Friends of PERSCOM are to inform their respective POC for attendance-taking prior to the event or approach the table located on the right of the Team Sports Hall, and contact the Registration OIC, Ms Doris Chong for any queries.
