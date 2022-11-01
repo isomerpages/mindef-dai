@@ -65,7 +65,3 @@ The nearest MRT station is <strong> Tampines Station (EW2-DT32) </strong> , an i
 Personnel taking the East-West Line should leave the station through Exit A, and Downtown Line users through Exit F. Thereafter, walk along Tampines Central 2 to reach Our Tampines Hub.
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="400px" width="100%" src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3988.7041301970294!2d103.93937695096237!3d1.3541002990075544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x31da3d0de2f2182f%3A0x3292b3e8187d1c62!2sTampines%20Central%201%2C%20Tampines%20MRT%20Station%20(DT32)%2C%20Singapore!3m2!1d1.3544991!2d103.94275809999999!4m5!1s0x31da3d0d853b8fbb%3A0x81b222cd195132d4!2s1%20Tampines%20Walk%2C%20Our%20Tampines%20Hub%2C%20Singapore%20528523!3m2!1d1.3536066999999998!2d103.9403839!5e0!3m2!1sen!2ssg!4v1667285278116!5m2!1sen!2ssg"></iframe>
-
-
-
-
