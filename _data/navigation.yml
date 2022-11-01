@@ -1,10 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: AIs
-    collection: ais
-  - title: Menu Title
-    url: /permalink
+    url: /404
+  - title: View AIs
+    url: /ais
