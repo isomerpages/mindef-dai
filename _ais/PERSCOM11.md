@@ -15,14 +15,19 @@ description: ""
 
 ### Event Details
 
-<div style="display: inline-block">
-
+<center>
+	
+<div>
+	<div style="display:inline-block;vertical-align:top;">
+		<img src="/images/PERSCOM11_RSC/p11_calendar.svg" alt="calendar icon" style="width:5em" />
+	</div>
+	<div style="display:inline-block; padding-left:15pt">
+		<a>9th November 2022</a>	<br>
+		<a>(Click on the icon to add this to your calendar!)</a>
+	</div>
 </div>
 
-<div style="display: inline-block">
-	 Content in column B
-</div>
-
+</center>
 
 <hr>
 
