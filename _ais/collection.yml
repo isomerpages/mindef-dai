@@ -2,6 +2,6 @@ collections:
   ais:
     output: true
     order:
-      - Ongoing/PERSCOM11.md
-      - Ongoing/.keep
       - See AIs.md
+      - Ongoing/.keep
+      - Ongoing/PERSCOM11.md
