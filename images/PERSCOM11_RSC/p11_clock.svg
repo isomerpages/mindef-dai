@@ -1,0 +1,21 @@
+<svg zoomAndPan="magnify" width="198.4" viewBox="113.4 113.4 198.4 198.4" version="1.1" preserveAspectRatio="xMidYMid meet" height="198.4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+ <g id="surface1">
+  <g id="change1_1"><path fill="#f36856" d="m311.81 212.6c0 54.79-44.42 99.21-99.21 99.21s-99.21-44.42-99.21-99.21 44.42-99.21 99.21-99.21 99.21 44.42 99.21 99.21"></path></g>
+  <g id="change2_1"><path fill="#fef2d0" d="m292.95 212.6c0 44.38-35.97 80.35-80.35 80.35s-80.35-35.97-80.35-80.35 35.97-80.35 80.35-80.35 80.35 35.97 80.35 80.35"></path></g>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2126 2838.5v-115"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2126 1528.5v-115"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2838.5 2126h-115"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m1528.5 2126h-115"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2489.1 2739l-58.6-98.9"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m1821.5 1611.9l-58.6-99"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2730.8 2502.7l-97.6-60.9"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m1618.8 1810.1l-97.6-60.8"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2758.9 1798.8l-102.1 52.8"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m1595.2 2400.4l-102.1 52.8"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2500.4 1519.8l-60.4 97.9"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m1812 2634.3l-60.4 97.9"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2126 2572v-358.5"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#24537c" fill="none" d="m2087.8 2047.4l-336.2-330.4"></path>
+  <path transform="matrix(.1 0 0 -.1 0 425.2)" stroke-width="50" stroke-miterlimit="10" stroke="#d7282f" fill="none" d="m2213.5 2126c0-48.3-39.2-87.5-87.5-87.5s-87.5 39.2-87.5 87.5 39.2 87.5 87.5 87.5 87.5-39.2 87.5-87.5z"></path>
+ </g>
+</svg>
