@@ -78,4 +78,4 @@ The second bus-stop, "Opp Blk 945 (76119)", is located along Tampines Ave 4. Bus
 #### CAR
 Personnel driving to Our Tampines Hub may use the TPE (toward the PIE/Changi Airport) and take Exit 5 towards Tampines Ave 10. Car parking is available at Our Tampines Hub underground carparks - Carpark A, B and C. The parking charges of $0.02/min is applicable at participants' own expense. The nearest lift lobby to the Team Sports Hall is Lobby B.
 
-
+<img src="/images/PERSCOM11_RSC/P11_carpark_map.jpeg" alt="p11 carpark map" height="400px" />
