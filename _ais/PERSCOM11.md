@@ -15,25 +15,28 @@ description: ""
 
 ### Event Details
 
-<center>
-	
-<div>
-	<div style="display:inline-block;vertical-align:top;">
-		<img src="/images/PERSCOM11_RSC/p11_calendar.svg" alt="calendar icon" style="width:5em" />
-	</div>
-	<div style="display:inline-block; padding-left:15pt">
-		<a>9th November 2022</a>	<br>
-		<a>(Click on the icon to add this to your calendar!)</a>
-	</div>
-</div>
-
-</center>
-
-<hr>
 
 
 ### Theme
 
+<center>
+<h4> "Thank You For Your Service" </h4>
+</center>
+
+##### Strong Mind
+<img src="images/PERSCOM11_RSC/p11_strong_mind.png" alt="strong mind" style="width:25%"/>
+
+Foster mental resilience and well-being through Self-Care challenge.
+
+##### Strong Body
+<img src="images/PERSCOM11_RSC/p11_strong_body.svg" alt="strong body" style="width:25%"/>
+
+Emphasis on physical well-being with 'pound' exercises and to include a walking activity to clock steps as part of Self-Care.
+
+##### Strong Heart
+<img src="images/PERSCOM11_RSC/p11_strong_heart.svg" alt="strong heart" style="width:25%"/>
+
+Handwritten appreciation cards by respective immediate superiors for all personnel in PERSCOM.
 
 <hr>
 
@@ -52,6 +55,7 @@ description: ""
 | 1045 | Cake-Cutting |
 | 1055 | Closing Remarks by Comd PERSCOM |
 | 1100 | Conclusion of Event |
+
 
 <hr>
 
