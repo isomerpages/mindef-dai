@@ -18,8 +18,6 @@ description: ""
 
 
 ### Programme
-  
-
 | TIME (HRS) | PROGRAMME |
 | :----------: | -------------- |
 | 0800 | Registration of Personnel |
@@ -33,8 +31,3 @@ description: ""
 | 1045 | Cake-Cutting |
 | 1055 | Closing Remarks by Comd PERSCOM |
 | 1100 | Conclusion of Event |
-
-
-
-
-
