@@ -13,9 +13,14 @@ description: ""
 	</span>
 </center>
 
-
 <hr>
 
+### Event Details
+
+
+
+
+<hr>
 
 ### Programme
 | TIME (HRS) | PROGRAMME |
@@ -31,3 +36,17 @@ description: ""
 | 1045 | Cake-Cutting |
 | 1055 | Closing Remarks by Comd PERSCOM |
 | 1100 | Conclusion of Event |
+
+<hr>
+
+### Attendance
+
+**Attendance for the event is compulsory** except those on essential duties and approved absence by the respective Entity Heads	
+
+
+	
+
+
+
+
+
