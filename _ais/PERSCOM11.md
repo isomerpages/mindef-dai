@@ -15,7 +15,13 @@ description: ""
 
 ### Event Details
 
+<div style="display: inline-block">
 
+</div>
+
+<div style="display: inline-block">
+	 Content in column B
+</div>
 
 
 <hr>
