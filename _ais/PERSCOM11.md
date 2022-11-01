@@ -22,6 +22,11 @@ description: ""
 
 <hr>
 
+
+### Theme
+
+
+
 ### Programme
 
 | TIME (HRS) | PROGRAMME |
@@ -79,3 +84,35 @@ The second bus-stop, "Opp Blk 945 (76119)", is located along Tampines Ave 4. Bus
 Personnel driving to Our Tampines Hub may use the TPE (toward the PIE/Changi Airport) and take Exit 5 towards Tampines Ave 10. Car parking is available at Our Tampines Hub underground carparks - Carpark A, B and C. The parking charges of $0.02/min is applicable at participants' own expense. The nearest lift lobby to the Team Sports Hall is Lobby B.
 
 <img src="/images/PERSCOM11_RSC/P11_carpark_map.jpeg" alt="p11 carpark map" height="400px" />
+
+<hr>
+
+### Security
+Personnel are allowed to take photographs using their camera phone.
+
+However, obscene and/or any inappropriate photographs which may tarnish the image of SAF should not be uploaded onto any social media platforms.
+
+Any non-compliance will be disciplinary dealt with.
+
+<hr>
+
+### Safety
+*   Personnel are <u>encouraged</u> to bring along their own water bottles to keep themselves hydrated.
+
+*   Water coolers are located throughout Our Tampines Hub. Personnel are advised to use the water coolers to keep themselves hydrated throughout the event.
+
+*   All personnel are advised to consume their breakfast before reporting for the event. Personnel are to bring along their medication (e.g. inhalers) if required. Refreshments will be provided at the end of the event.  
+
+*   As the event involves physical activities, personnel who are medically unfit should refrain from participating in the exercises.
+
+<hr>
+
+### Medical Coverage
+Any casualties during the activity will be sent to the nearest First Aid Station (FAS) located in Team Sports Hall. Once they are at the FAS, the first-aider on site will provide triage and medical attention.
+
+Should there be a need to evacuate the casualty to the hospital, the nearest hospital is Changi General Hospital.
+
+Participants who require medical attention are to approach their superiors or the Safety Officer, Mr Aw Wei Chong.
+
+
+<hr>
