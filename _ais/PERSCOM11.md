@@ -39,7 +39,7 @@ description: ""
 | 1100 | Conclusion of Event |
 
 
-<table>
+<table style="color:blue;" >
     <tr>
         <td>TIME (HRS)</td>
         <td>PROGRAMME</td>
@@ -62,7 +62,7 @@ description: ""
     </tr>
     <tr>
         <td>0920</td>
-        <td>**Activity 1** : Complete 1100 Steps (Level 5 - Indoor Track) &lt;br&gt;*Fringe Activities will take place concurrently in Team Sports Hall*</td>
+        <td> <strong >Activity 1 </strong>: Complete 1100 Steps (Level 5 - Indoor Track) &lt;br&gt;*Fringe Activities will take place concurrently in Team Sports Hall*</td>
     </tr>
     <tr>
         <td>1010</td>
@@ -70,7 +70,7 @@ description: ""
     </tr>
     <tr>
         <td>1015</td>
-        <td>**Activity 2**: Pound Activities</td>
+        <td> <strong> Activity 2 </strong>: Pound Activities</td>
     </tr>
     <tr>
         <td>1040</td>
