@@ -23,19 +23,21 @@ description: ""
 <hr>
 
 ### Programme
+
 | TIME (HRS) | PROGRAMME |
 | :----------: | -------------- |
 | 0800 | Registration of Personnel |
 | 0900 | Commencement of Event |
 | 0905 | Open Remarks by Comd PERSCOM |
 | 0915 | Sharing on Mental Well-Being through Self-Care Activity |
-| 0920 | **Activity 1** : Complete 1100 Steps (Level 5 - Indoor Track) <br> *Fringe Activities will take place concurrently in Team Sports Hall* |
+| 0920 | **Activity 1** : Complete 1100 Steps (Level 5 - Indoor Track) <br>*Fringe Activities will take place concurrently in Team Sports Hall* |
 | 1010 | Photo-Taking |
 | 1015 | **Activity 2**: Pound Activities |
 | 1040 | Recap of Appreciation Event & Presentation of Awards |
 | 1045 | Cake-Cutting |
 | 1055 | Closing Remarks by Comd PERSCOM |
 | 1100 | Conclusion of Event |
+
 
 <hr>
 
