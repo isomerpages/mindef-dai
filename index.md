@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: SAF Digital Admin Instructions
+description: Archives of Digital Administration Instructions (DAI)
 image: /images/isomer-logo.svg
 permalink: /
 notification: This site is still a work in progress
@@ -20,3 +20,4 @@ sections:
           description: Create and Publish AIs
           url: /create_new_ai
 ---
+
