@@ -15,17 +15,8 @@ sections:
       key_highlights:
         - title: View AIs
           description: "View Admin Instructions "
-          url: https://google.com
-        - title: TODO
-          description: TODO
-          url: https://gmail.com
+          url: /ais
         - title: Create New AI
-          description: Quickly create and publish AIs
+          description: Create and Publish AIs
           url: /create_new_ai
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
