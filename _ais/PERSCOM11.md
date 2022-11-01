@@ -38,58 +38,6 @@ description: ""
 | 1055 | Closing Remarks by Comd PERSCOM |
 | 1100 | Conclusion of Event |
 
-
-<table style="color:blue;" >
-    <tr>
-        <td>TIME (HRS)</td>
-        <td>PROGRAMME</td>
-    </tr>
-    <tr>
-        <td>0800</td>
-        <td>Registration of Personnel</td>
-    </tr>
-    <tr>
-        <td>0900</td>
-        <td>Commencement of Event</td>
-    </tr>
-    <tr>
-        <td>0905</td>
-        <td>Open Remarks by Comd PERSCOM</td>
-    </tr>
-    <tr>
-        <td>0915</td>
-        <td>Sharing on Mental Well-Being through Self-Care Activity</td>
-    </tr>
-    <tr>
-        <td>0920</td>
-        <td> <strong >Activity 1 </strong>: Complete 1100 Steps (Level 5 - Indoor Track) &lt;br&gt;*Fringe Activities will take place concurrently in Team Sports Hall*</td>
-    </tr>
-    <tr>
-        <td>1010</td>
-        <td>Photo-Taking</td>
-    </tr>
-    <tr>
-        <td>1015</td>
-        <td> <strong> Activity 2 </strong>: Pound Activities</td>
-    </tr>
-    <tr>
-        <td>1040</td>
-        <td>Recap of Appreciation Event &amp; Presentation of Awards</td>
-    </tr>
-    <tr>
-        <td>1045</td>
-        <td>Cake-Cutting</td>
-    </tr>
-    <tr>
-        <td>1055</td>
-        <td>Closing Remarks by Comd PERSCOM</td>
-    </tr>
-    <tr>
-        <td>1100</td>
-        <td>Conclusion of Event</td>
-    </tr>
-</table>
-
 <hr>
 
 ### Attendance
