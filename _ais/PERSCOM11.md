@@ -7,13 +7,11 @@ description: ""
 
 <center>
 	<h2> PERSCOM 11th Anniversary </h2>
-	<br>
-	<span style="font-size:180%; border-radius:25px; color:#ffffff; background-color: #b6746c; padding:15px 70px"> 
-		9 Nov 2022 | Our Tampines Hub
-	</span>
-</center>
+	<p style="font-size: 1.5em; display: block; margin-top: 1.33em; margin-bottom: 1.33em; margin-left: 0; margin-right: 0; font-weight: bold; border-radius:25px; color:#ffffff; background-color: #b6746c; padding:2%"> 9 Nov 2022 | Our Tampines hub</p>	
 
+</center>
 <hr>
+
 
 ### Event Details
 
@@ -26,6 +24,7 @@ description: ""
 ### Theme
 
 
+<hr>
 
 ### Programme
 
