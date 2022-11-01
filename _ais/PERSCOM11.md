@@ -53,6 +53,5 @@ All PERSCOM personnel are to report to their respective POC for attendance-takin
 * HRI Ms Tan Fu Shan
 * SAF Pers Hubs - Ms Joyce Chin
 
-
-
 Friends of PERSCOM are to inform their respective POC for attendance-taking prior to the event or approach the table located on the right of the Team Sports Hall, and contact the Registration OIC, Ms Doris Chong for any queries.
+
