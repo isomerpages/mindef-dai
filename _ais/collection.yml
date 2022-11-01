@@ -2,5 +2,4 @@ collections:
   ais:
     output: true
     order:
-      - P11/Event Details.md
       - P11/.keep
