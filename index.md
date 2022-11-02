@@ -2,7 +2,7 @@
 layout: homepage
 title: SAF Digital Admin Instructions
 description: Archives of Digital Administration Instructions (DAI)
-image: /images/isomer-logo.svg
+image: /images/perscom_logo.png
 permalink: /
 notification: This site is still a work in progress
 sections:
@@ -20,4 +20,5 @@ sections:
           description: Create and Publish AIs
           url: /create_new_ai
 ---
+
 
