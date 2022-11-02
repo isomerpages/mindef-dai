@@ -4,7 +4,6 @@ permalink: /ais/PERSCOM11/
 description: ""
 third_nav_title: Ongoing
 ---
-
 <img src="/images/PERSCOM11_RSC/P11_LOGO.png" alt="p11 logo" style="width:30%">
 
 <center>
@@ -16,6 +15,14 @@ third_nav_title: Ongoing
 
 
 ### Event Details
+
+|  |  |
+| -------- | -------- | 
+| Date     | 9 November 2022     | 
+| Time | 9:00AM |
+|Venue | Our Tampines Hub (Team Sports Hub, Level 2) |
+| Attire | PERSCOM Family Polo Tee, Exercise Shorts Long Pants & Covered Shoes|
+
 
 
 
