@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - See AIs.md
+      - Ongoing/WIP Test Event.md
       - Ongoing/.keep
       - Ongoing/PERSCOM11.md
