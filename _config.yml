@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1sdz18g5gbm1a.amplifyapp.com
 prod: https://master.d1sdz18g5gbm1a.amplifyapp.com
 resources_name: test1
-shareicon: /images/isomer-logo.svg
+shareicon: /images/perscom_logo.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
