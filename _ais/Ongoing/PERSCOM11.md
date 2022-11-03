@@ -73,7 +73,7 @@ Handwritten appreciation cards by respective immediate superiors for all personn
 <div style="font-size: 120%;padding-left: 20px;">
 <u> <strong >Attendance for the event is compulsory </strong> </u> except those on essential duties and approved absence by the respective Entity Heads
 </div>
-	
+
 All PERSCOM personnel are to report to their respective POC for attendance-taking prior to and after the event:
 
 * HQ PERSCOM - Ms Jesmine Yeo
