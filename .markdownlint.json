@@ -1,0 +1,6 @@
+{
+  "MD010": false,       // hard space
+  "MD013": false,       // line length
+  "MD022": false,       // space above and below header
+  "MD033": false        // html
+}
