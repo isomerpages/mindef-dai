@@ -11,6 +11,7 @@ third_nav_title: Ongoing
 	<p style="font-size: 1.5em; display: block; margin-top: 1.33em; margin-bottom: 1.33em; margin-left: 0; margin-right: 0; font-weight: bold; border-radius:25px; color:#ffffff; background-color: #b6746c; padding:2%"> 9 Nov 2022 | Our Tampines hub</p>	
 
 </center>
+
 <hr>
 
 
