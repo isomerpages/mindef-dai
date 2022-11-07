@@ -1,6 +1,6 @@
 collections:
   ais:
-    output: true
+    output: false
     order:
       - See AIs.md
       - Ongoing/Example Title.md

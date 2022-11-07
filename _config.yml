@@ -31,6 +31,8 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
+  # custom excludes
+  - docs/
 include:
   - _redirects
 defaults:
