@@ -1,0 +1,7 @@
+collections:
+  ais:
+    output: true
+    order:
+      - index.md
+      - perscom-11.md
+      
