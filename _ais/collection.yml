@@ -1,0 +1,9 @@
+collections:
+  ais:
+    output: true
+    order:
+      - See AIs.md
+      - Ongoing/Example Title.md
+#       - Ongoing/WIP Test Event.md
+#       - Ongoing/.keep
+#       - Ongoing/PERSCOM11.md
